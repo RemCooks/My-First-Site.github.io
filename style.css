@@ -1,5 +1,10 @@
+body {
+width: 1920;
+color: darkcyan;
+}
+
 h1 {
-    color: blueviolet;
+    color: lightcoral;
     font-size: 144px;
     text-transform: uppercase;
 }
