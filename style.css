@@ -1,12 +1,17 @@
+body {
+    margin: 0;
+}
+
 h1 {
     color: lightcoral;
     font-size: 144px;
+    font-style: Italic;
     text-transform: uppercase;
 }
 
 div {
     background-color:rgb(90, 36, 104);
-    height: 1080px;
-    width: 1920px;
+    height: 100vh;
+    width: 100vw;
     text-align: center;
 }
