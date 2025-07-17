@@ -9,6 +9,8 @@ h1 {
     text-transform: uppercase;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    letter-spacing: 6px;
+    text-decoration: underline;
 }
 
 header {
